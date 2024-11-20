@@ -29,7 +29,7 @@ nbconvert==5.2.1
 nbformat==4.3.0
 networkx==2.0
 notebook==6.1.5
-numpy==1.17.2
+numpy==1.22.0
 olefile==0.44
 pandocfilters==1.4.1
 pexpect==4.7.0
