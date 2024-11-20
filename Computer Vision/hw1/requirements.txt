@@ -2,7 +2,7 @@ Jinja2==2.10.1
 MarkupSafe==1.0
 Pillow==7.1.0
 PyWavelets==0.5.2
-Pygments==2.2.0
+Pygments==2.7.4
 appnope==0.1.0
 astroid==1.5.3
 bleach==3.1.4
