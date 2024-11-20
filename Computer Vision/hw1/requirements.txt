@@ -1,4 +1,4 @@
-Jinja2==2.10.1
+Jinja2==2.11.3
 MarkupSafe==1.0
 Pillow==7.1.0
 PyWavelets==0.5.2
